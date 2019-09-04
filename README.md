@@ -91,7 +91,8 @@ Adicionar pequeno currículo
 ### Acessibilidade
 O projeto prevê ainda recursos de libras e legendagem como ferramenta de acessibilidade para pessoas com deficiência por meio de aplicativo que será instalado no site especialmente desenvolvido para o projeto, o aplicativo brasileiro: “Hand Talk”, criado em Alagoas, que ganhou o título de “melhor aplicativo de inclusão social” do mundo”, no prêmio World Summit Award Mobile, criado pela ONU. O aplicativo converte conteúdos em texto e libras a linguagem de sinais para surdos, em tempo real.
 
-Fonte: http://www.aplicativos.gov.br/aplicativos/hand-talk.
+VLibras: [https://vlibras.gov.br/](https://vlibras.gov.br/) (Grátis)
+Hand-talk: http://www.aplicativos.gov.br/aplicativos/hand-talk. (Pago)
 
 # Cores
 
