@@ -78,13 +78,41 @@ http://reporterindependente.com.br/memorias-brincantes-resgata-a-magia-do-univer
 ## Equipe
 
 ### Dudu Oliveira (Maestro do espetáculo)
-Adicionar pequeno currículo
+Aos 14 anos, Dudu Oliveira iniciou sua carreira artística como músico, tocando violão e guitarra. O garoto descobriu muito cedo o seu talento e começou atuando em grupos de
+seresta e gafieira no bairro da Lapa, no Rio de Janeiro, e desde então não parou mais. Ainda no Rio, teve o privilégio de dividir os palcos com artistas renomados no samba carioca, como:
+Bezerra da Silva, Dominguinhos do Estácio, Binho Soares, Quarteto Mangaio, Alvinho Santos (Diretor musical da Alcione), Maestro Ângelo Budega, entre outros. Também tocou com
+artistas como Elza Soares, Demônios da Garoa, Cauby Peixoto e Timbalada. Importantes espaços culturais como Carioca da Gema, Rio Cenário, Fundição Progresso, Circo Voador, Sala Cecília Meireles e outras casas no estado do Rio, já receberam esse talentoso artista.
 
-### PalhaçoTapioca (palhaço do espetáculo) 
-Adicionar pequeno currículo
+### Marco Aaurélio Feresin Júnior (PalhaçoTapioca) 
+Artista circense desde 1998 atua como palhaço, acrobata, malabarista, perna de pau e equilíbrio em monociclo e rola-rola. Arte-Educador com experiência em projetos sociais e atuante como instrutor de circo em escolas para crianças de educação infantil, ensino médio e fundamental!
+Acredita na linguagem do circo-teatro como instrumento de transformação, buscando na raiz da arte uma esperança de se construir um mundo melhor.
 
 ### Thaís Tosi (Produção)
-Adicionar pequeno currículo
+- Produtora do Projeto Apanhei-te Cavaquinho – Cabo Frio
+- Diretora Administrativa da Associação Filhos da Terra
+- Coordenadora do Projeto Cultural Waldir Azevedo
+- Produtora da Orquestra de Cavaquinhos de Brasília
+
+### Marcelo Fonteles (Produtor)
+Produtor Audiovisual graduado pela Universidade UNIP de Brasília e Pós Graduado em Gestão Cultural pelo SENAC;
+-  Parecerista de Cultura - Fundac (MS) (2014-2015), Fundarpe (PE) 2016, Seduce (GO) 2018;
+- Ex- gerente de prestação de contas (2013-2014), e ex-gerente de gestão de consultores (2015) do FAC/DF, responsável pela elaboração do Manual de Prestação de Contas do FAC (2014), pela capacitação dos consultores do FAC para análise de projetos da LIC (2015), e pela elaboração da “Carta de Serviços ao Cidadão” da Sufic (2015);
+- Consultor para elaboração, gestão, divulgação e prestação de contas de projetos culturais;
+- Gestor do Projeto Cultural Waldir Azevedo e da Orquestra de Cavaquinhos de Brasília;
+- Criador e Diretor da Agenda Cultural Brasília.
+
+### Bárbara Alencar (Jornalista / Acessora de Imprensa)
+Assessora de imprensa para diversos eventos e projetos culturais: Nilson Lima
+canta Gonzaguinha (2018), oficinas Projeto Waldir Azevedo (2018),
+Encontro de Gerações (setembro 2018), oficinas “Arte e Cultura Vive” (2018),
+Oficinas Culturais Artesanais (2018), Acontece no Museu com Dudu Oliveira
+(2018), 1a FLIB - Feira Literária da Biblioteca do Bosque (2017); LP& Afins
+(2015); IX Brasília Motocapital (2012).
+Redatora de informe publicitário veiculado em rádio e produtora de campanhas comerciais
+para televisão e web.
+
+### Apoena Machado (Desenvolvimento)
+Profissional com mais de 15 anos de experiência. Especializado em desenvolvimento Web e Mobile. Focado no desenvolvimento baseado em Software Livre com  metodologias Ágeis. Responsável pelo planejamento, desenvolvimento e implantação de sistemas de TI para diversas empresas públicas e privadas.
 
 # Extra
 
